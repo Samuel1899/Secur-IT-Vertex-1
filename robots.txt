@@ -1,0 +1,7 @@
+# Permite que todos os robôs de busca acessem todo o conteúdo do site.
+User-agent: *
+Allow: /
+
+# Informa a localização do mapa do site.
+# Lembre-se de substituir pela URL real do seu site quando estiver online!
+Sitemap: https://www.seusite.com.br/sitemap.xml 
